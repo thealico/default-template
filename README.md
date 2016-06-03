@@ -1,4 +1,4 @@
 # Varsayılan Kök Şablon
-Birşeyler denemek için kullanılabilecek basit bir şablon.
-Varsayılan olarak Bootstrap, jQuery cdn bağlantılarını içerir.
-Google WebFonts üzerinden Open Sans fontu bağlanmıştır
+Birşeyler denemek için kullanılabilecek basit bir şablon.\n
+Varsayılan olarak Bootstrap, jQuery cdn bağlantılarını içerir.\n
+Google WebFonts üzerinden "Open Sans" yazı tipi bağlanmıştır\n
